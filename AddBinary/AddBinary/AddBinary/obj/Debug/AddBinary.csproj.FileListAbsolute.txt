@@ -1,0 +1,7 @@
+E:\Github\Tool\AddBinary\AddBinary\AddBinary\bin\Debug\AddBinary.exe.config
+E:\Github\Tool\AddBinary\AddBinary\AddBinary\bin\Debug\AddBinary.exe
+E:\Github\Tool\AddBinary\AddBinary\AddBinary\bin\Debug\AddBinary.pdb
+E:\Github\Tool\AddBinary\AddBinary\AddBinary\obj\Debug\AddBinary.csprojAssemblyReference.cache
+E:\Github\Tool\AddBinary\AddBinary\AddBinary\obj\Debug\AddBinary.csproj.CoreCompileInputs.cache
+E:\Github\Tool\AddBinary\AddBinary\AddBinary\obj\Debug\AddBinary.exe
+E:\Github\Tool\AddBinary\AddBinary\AddBinary\obj\Debug\AddBinary.pdb
